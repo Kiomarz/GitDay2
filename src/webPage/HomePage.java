@@ -6,5 +6,5 @@ public class HomePage {
 
     //new menu
 
-
+//footer
 }
