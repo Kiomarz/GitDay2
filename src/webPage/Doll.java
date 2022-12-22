@@ -8,4 +8,7 @@ public class Doll {
     //the color is red
 
     //and white
+
+
+    //one of them is broken
 }
